@@ -1,0 +1,9 @@
+[package]
+name = "tracedis"
+version = "0.1.0"
+authors = ["eu90h <euler90h@gmail.com>"]
+edition = "2020"
+
+[dependencies]
+iced-x86 = "*"
+structopt = "*"
