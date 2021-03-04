@@ -2,8 +2,8 @@
 name = "tracedis"
 version = "0.1.0"
 authors = ["eu90h <euler90h@gmail.com>"]
-edition = "2020"
+edition = "2018"
 
 [dependencies]
-iced-x86 = "*"
-structopt = "*"
+iced-x86 = "1.10.3"
+structopt = "0.3"
